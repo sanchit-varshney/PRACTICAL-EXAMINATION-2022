@@ -1,0 +1,43 @@
+.header {
+  border: 1px solid black;
+  padding: 16px;
+  box-sizing: border-box;
+  text-align: center;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.sidebar {
+  width: 30%;
+  border: 1px solid black;
+  height: 70vh;
+  padding: 16px;
+}
+
+.content {
+  width: 70%;
+  margin-left: 10px;
+  border: 1px solid black;
+  padding: 16px;
+}
+
+.declaration {
+  border: 1px solid black;
+  padding: 16px;
+  margin-top: 10px;
+}
+
+.app {
+  border: 1px solid black;
+  padding: 16px;
+}
+
+.personal {
+  height: 70px;
+}
